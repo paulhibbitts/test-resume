@@ -5,7 +5,9 @@ An engineering manager building and leading engineering teams at Apple Inc
 
 ### Apple Inc
 <span style="float:right;">
+  
 _Copenhagen_
+
 </span>
 
 **Engineering Manager**
