@@ -4,7 +4,9 @@ An engineering manager building and leading engineering teams at Apple Inc
 ## Work Experience
 
 ### Apple Inc
-->_Copenhagen_
+<span style="float:right;">
+_Copenhagen_
+</span>
 
 **Engineering Manager**
 ->_Jan 2019 to Present_
