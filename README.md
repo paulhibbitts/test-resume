@@ -4,6 +4,17 @@ An engineering manager building and leading engineering teams at Apple Inc
 ## Work Experience
 
 ### Apple Inc
+
+->_Copenhagen_
+
+**Engineering Manager**
+->_Jan 2019 to Present_
+
+- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
+- Contributed to company-wide engineering initiatives
+- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
+
+### Apple Inc
 ->_Copenhagen_
 
 **Engineering Manager**
